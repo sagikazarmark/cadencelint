@@ -10,8 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 
-## [0.0.1] - 2020-03-22
+## 0.0.1 - 2020-03-22
 
 
 [Unreleased]: https://github.com/sagikazarmark/cadencelint/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/sagikazarmark/cadencelint/compare/v0.0.0...v0.0.1
