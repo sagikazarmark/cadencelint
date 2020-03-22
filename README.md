@@ -10,6 +10,9 @@
 
 ## Installation
 
+Download a prebuilt binary from the [Releases](https://github.com/sagikazarmark/cadencelint/releases) page,
+or install the tool from source:
+
 ```bash
 go get github.com/sagikazarmark/cadencelint
 ```
