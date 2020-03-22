@@ -1,9 +1,7 @@
 # Cadence Linter
 
-[![CircleCI](https://circleci.com/gh/sagikazarmark/modern-go-application.svg?style=svg)](https://circleci.com/gh/sagikazarmark/modern-go-application)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sagikazarmark/cadencelint/CI?style=flat-square)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sagikazarmark/cadencelint?style=flat-square)](https://goreportcard.com/report/github.com/sagikazarmark/cadencelint)
-[![GolangCI](https://golangci.com/badges/github.com/sagikazarmark/cadencelint.svg)](https://golangci.com/r/github.com/sagikazarmark/cadencelint)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://godoc.org/github.com/sagikazarmark/cadencelint)
 
 **A simple linter for checking Cadence workflows and activities for common mistakes.**
 
