@@ -16,7 +16,7 @@ ensuring that the code is deterministic.
 
 See https://cadenceworkflow.io/docs/06_goclient/02_create_workflows#implementation for more details.`
 
-// nolint: gochecknoglobals,golint
+// nolint: gochecknoglobals,golint,stylecheck
 var Analyzer = &analysis.Analyzer{
 	Name:     "deterministic",
 	Doc:      Doc,
