@@ -1,5 +1,10 @@
 module github.com/sagikazarmark/cadencelint
 
-go 1.14
+go 1.20
 
-require golang.org/x/tools v0.0.0-20200321224714-0d839f3cf2ed
+require golang.org/x/tools v0.6.0
+
+require (
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+)
